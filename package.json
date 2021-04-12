@@ -1,0 +1,11 @@
+{
+  "name": "cd",
+  "version": "0.0.6",
+  "description": "An easy way to create discord.js commands",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gustavo Tramontin",
+  "license": "ISC"
+}

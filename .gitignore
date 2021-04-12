@@ -1,0 +1,6 @@
+# Token of the test bot
+test/config.json
+
+test/node_modules
+
+.vscode
