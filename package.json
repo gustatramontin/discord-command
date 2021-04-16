@@ -1,6 +1,6 @@
 {
   "name": "@gtramontin/discord-commands",
-  "version": "0.0.6",
+  "version": "1.0.6",
   "description": "An easy way to create discord.js commands",
   "main": "index.js",
   "scripts": {
