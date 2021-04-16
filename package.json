@@ -1,5 +1,5 @@
 {
-  "name": "cd",
+  "name": "@gtramontin/discord-commands",
   "version": "0.0.6",
   "description": "An easy way to create discord.js commands",
   "main": "index.js",
@@ -7,5 +7,16 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Gustavo Tramontin",
-  "license": "ISC"
+  "license": "ISC",
+  "directories": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gustatramontin/discord-command.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gustatramontin/discord-command/issues"
+  },
+  "homepage": "https://github.com/gustatramontin/discord-command#readme"
 }
